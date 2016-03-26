@@ -1,0 +1,12 @@
+layout_spectrum: 0.5306059
+typography_spectrum: 0.5747156
+color:
+  saturation: 0.3851156
+  lightness: 0.6796943
+  brandStrength: 1
+  brandColors:
+    - '#5CA34A'
+    - '#F2FFF3'
+    - '#BCE9B5'
+  rhythmicContrast: 0.720576
+name: Sell my home
