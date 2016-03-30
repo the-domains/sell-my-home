@@ -4,21 +4,21 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.9135338
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.4906015
   brandStrength: 1
-  lightness: 0.5112782
+  rhythmicContrast: 0.358396
   brandColors:
     - '#5CA34A'
     - '#F2FFF3'
     - '#BCE9B5'
-  rhythmicContrast: 0.358396
-layout_spectrum: 1
+  lightness: 0.5112782
+typography_spectrum: 1
+layout_spectrum: 0.5615672
 name: Sell my home
