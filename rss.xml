@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Sell my home]]></title>
         <description><![CDATA[Sell my home]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sell-my-home/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 06:47:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Mar 2016 06:48:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sell-my-home/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[BHGHOME]]></title>
             <description><![CDATA[<article><h1>BHGHOME</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb500ae4-bf29-485e-a505-76f7f11f9ec6.png"></article>]]></description>
-            <link>undefinedbhghome/index.html</link>
+            <link>https://thegrid.ai/sell-my-home/bhghome/index.html</link>
             <guid isPermaLink="false">65c5df9b-d47f-4524-9cbc-c5c21246b618</guid>
-            <pubDate>Wed, 30 Mar 2016 06:47:33 GMT</pubDate>
+            <pubDate>Wed, 30 Mar 2016 06:48:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
